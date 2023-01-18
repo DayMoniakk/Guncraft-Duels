@@ -67,6 +67,7 @@ Une fois que c'est fait vous et vos amis pourront vous connecter au serveur en u
 
 ## Utiliser un hébergeur dédié
 Je ne vais pas aller en détail sur le sujet, je vous laisse donc trouver un tutoriel sur internet.
+Notez simplement que les fichiers `plugins` et `world`, ainsi que leur contenu sont obligatoires au fonctionnement du jeu !
 
 # FAQ
 ### Pourquoi les anciennes maps ne sont pas dedans ?
