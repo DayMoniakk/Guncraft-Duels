@@ -20,13 +20,19 @@ Le but de cette version est de vous offrir la possibilité de jouer entre amis s
 ### Fonctionnalités ajoutées
 * nouveaux kits
 * nouvelles maps
-* modificateurs de jeu
-* scoreboard amélioré
+* modificateurs de jeu optionnels
+* les joueurs morts lâchent de la santé
+
+### Fonctionnalités modifiées
+* le sniper n'est plus nerf
+* les armes apparaissent toutes les 30s au lieu de 60s
+* beaucoup de kits ont étés rééquilibrés
 
 ### Fonctionnalités supprimées
 * pas de missions
 * pas d'anticheat
 * pas de mode de jeu en équipe
+* les vitres ne sont plus cassables
 
 # Comment jouer
 Vous avez deux options :
@@ -68,6 +74,12 @@ Tout simplement car elles sont trop grandes, comme nous l'avons vu précémment 
 de tout le temps chercher où est son adversaire quand il y a peu de joueurs.
 ### Puis-je rajouter des maps ?
 Non, il est difficile d'implémenter cette fonctionnalité de manière simple à comprendre pour tout le monde.
+### Combien de joueurs sont supportés par le jeu ?
+"Techniquement" vous pouvez jouer avec autant de joueurs que vous le souhaitez, **MAIS** un nombre important de joueurs risque d'entraîner des lags serveur. Egalement certaines maps seront trop petites pour jouer en grand nombre.
+### Comment faire pour que mes amis non-premium puissent rejoindre ?
+Une fois le serveur éteint rendez vous dans le fichier `server.properties`, repérez la ligne `online-mode=true` et remplacez la par `online-mode=false`.
+\
+Attention malgré tout, n'importe quel joueur peut utiliser le pseudo de quelqu'un d'autre.
 ### Est ce que le plugin peut être mis à jour pour la version 1.XX ?
 Ce n'est pas prévu, cependant je pourrais le considérer en cas de forte demande.
 ### Pourrais-je voir le code source ?
