@@ -1,7 +1,7 @@
 
 #  Guncraft Duels
 
-Guncraft duels est une version miniaturisée du remake du Guncraft par DayMoniakk & Nosfear (fermé le 30 Octobre 2022).
+Guncraft duels est une version miniaturisée du remake du Guncraft sortie en 2021 par DayMoniakk & Nosfear (fermé le 30 Octobre 2022).
 \
 Ce mini-jeu à été entièrement refait de A à Z (hormis le code des armes ayant été ré-utilisé)
 \
