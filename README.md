@@ -26,7 +26,7 @@ Le but de cette version est de vous offrir la possibilité de jouer entre amis s
 ### Fonctionnalités modifiées
 * le sniper n'est plus nerf
 * les armes apparaissent toutes les 30s au lieu de 60s
-* beaucoup de kits ont étés rééquilibrés
+* rééquilibrage des kits existants
 
 ### Fonctionnalités supprimées
 * pas de missions
