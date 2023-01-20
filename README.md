@@ -22,11 +22,13 @@ Le but de cette version est de vous offrir la possibilité de jouer entre amis s
 * nouvelles maps
 * modificateurs de jeu optionnels
 * les joueurs morts lâchent de la santé
+* les points de vie restants de l'adversaire sont affichés dans le message de mort
 
 ### Fonctionnalités modifiées
 * le sniper n'est plus nerf
 * les armes apparaissent toutes les 30s au lieu de 60s
 * rééquilibrage des kits existants
+* le cooldown des items spéciaux tels que le medkit, ghost, etc... à été réduit de moitié
 
 ### Fonctionnalités supprimées
 * pas de missions
