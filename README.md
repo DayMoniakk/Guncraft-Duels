@@ -14,7 +14,8 @@ Le but de cette version est de vous offrir la possibilité de jouer entre amis s
 <img src="images/map-westwood.png" width="45%"></img>
 
 [**> Téléchargement <**](https://github.com/DayMoniakk/Guncraft-Duels/releases)
-\[*Tutoriel vidéo*](www.youtube.com)
+\
+[*Tutoriel vidéo*](https://www.youtube.com)
 
 # Les différences
 
