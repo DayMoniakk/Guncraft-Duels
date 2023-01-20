@@ -15,7 +15,8 @@ Le but de cette version est de vous offrir la possibilité de jouer entre amis s
 
 [**> Téléchargement <**](https://github.com/DayMoniakk/Guncraft-Duels/releases)
 \
-[*Tutoriel vidéo*](https://www.youtube.com)
+\
+[*Tutoriel vidéo*](https://www.youtube.com/watch?v=3MxCa1BJb_g)
 
 # Les différences
 
