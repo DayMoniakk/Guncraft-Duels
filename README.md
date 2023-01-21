@@ -76,7 +76,7 @@ Notez simplement que les fichiers `plugins` et `world`, ainsi que leur contenu s
 
 # FAQ
 ### Pourquoi les anciennes maps ne sont pas dedans ?
-Tout simplement car elles sont trop grandes, comme nous l'avons vu précémment ce n'est pas très fun
+Tout simplement car elles sont trop grandes, comme nous l'avons vu précédemment ce n'est pas très fun
 de tout le temps chercher où est son adversaire quand il y a peu de joueurs.
 ### Puis-je rajouter des maps ?
 Non, il est difficile d'implémenter cette fonctionnalité de manière simple à comprendre pour tout le monde.
@@ -95,6 +95,6 @@ Malheureusement non, si je rends le code source public certains risquent de l'ut
 Je vous invite à vous rendre sur le [serveur Discord](https://discord.gg/PsQHTcPgGX).
 
 # License
-Vous êtes libre d'utiliser ce produit comme bon vous le semble tant que vous répondez aux exigences ci-dessous:
+Vous êtes libre d'utiliser ce produit comme bon vous semble tant que vous répondez aux exigences ci-dessous:
 * Utilisation commerciale strictement interdite
 * Interdiction de partager/reupload sans mon accord préalable
